@@ -1,0 +1,3 @@
+JUST FOR FUN
+A robot that moves upon placing cursor on component parts
+Trying out the fun and cool part of CSS3 
