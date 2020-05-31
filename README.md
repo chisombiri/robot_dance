@@ -1,4 +1,4 @@
 # robot_dance
 JUST FOR FUN.
-Playing around with css by making a dancing robot.
-Try here for web https://chisombiri.github.io/robot_dance/
+Playing around with css3, made a dancing robot.
+Check conept text
